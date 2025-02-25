@@ -14,6 +14,8 @@
 Бэк: express
 Фронт: react
 
+## Запуск: установить зависимости (npm i) в родительской папке, а также в папке backend
+
 ## Запуск бекенда: cd ./backend node server.js
 
 ## Запуск фронта: cd ../frontend npm start
